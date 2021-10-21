@@ -29,4 +29,5 @@ lockable-resources:latest
 extended-choice-parameter:latest
 uno-choice:latest
 authorize-project:latest
+ssh-agent:latest
 
